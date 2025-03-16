@@ -1,0 +1,1112 @@
+2025.03.15 19:24:32 INFO  Started: Metals version 1.5.1 in folders '/Users/aldo/Desktop/scala-learning' for client Visual Studio Code 1.98.2.[0m
+2025.03.15 19:24:32 INFO  no build target found for /Users/aldo/Desktop/scala-learning/oop.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.03.15 19:24:33 INFO  Attempting to connect to the build server...[0m
+2025.03.15 19:24:33 INFO  Running BSP server List(/Users/aldo/Library/Caches/Coursier/arc/https/github.com/scala/scala3/releases/download/3.6.4/scala3-3.6.4-aarch64-apple-darwin.tar.gz/scala3-3.6.4-aarch64-apple-darwin/libexec/scala-cli, --cli-default-scala-version, 3.6.4, --repository, file:///Users/aldo/Library/Caches/Coursier/arc/https/github.com/scala/scala3/releases/download/3.6.4/scala3-3.6.4-aarch64-apple-darwin.tar.gz/scala3-3.6.4-aarch64-apple-darwin/maven2, --prog-name, scala, --skip-cli-updates, bsp, --json-options, /Users/aldo/Desktop/scala-learning/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/aldo/Desktop/scala-learning/.scala-build/ide-launcher-options.json, --envs-file, /Users/aldo/Desktop/scala-learning/.scala-build/ide-envs.json, /Users/aldo/Desktop/scala-learning)[0m
+2025.03.15 19:24:33 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/aldo/Desktop/scala-learning/.metals/bsp.trace.json or /Users/aldo/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.03.15 19:24:34 INFO  no build target found for /Users/aldo/Desktop/scala-learning/oop.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:24:35 INFO  time: Connected to build server in 1.72s[0m
+2025.03.15 19:24:35 INFO  Connected to Build server: scala v1.5.4[0m
+2025.03.15 19:24:35 INFO  compiling scala-learning_fcfe619399 (1 scala source)[0m
+2025.03.15 19:24:35 INFO  running doctor check[0m
+2025.03.15 19:24:35 INFO  java targets: scala-learning_fcfe619399, scala-learning_fcfe619399-test[0m
+Mar 15, 2025 7:24:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+Mar 15, 2025 7:24:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+2025.03.15 19:24:36 WARN  Could not find semantic tokens for: file:///Users/aldo/Desktop/scala-learning/oop.scala[0m
+2025.03.15 19:24:37 INFO  time: indexed workspace in 2.07s[0m
+2025.03.15 19:24:37 WARN  Could not find semantic tokens for: file:///Users/aldo/Desktop/scala-learning/oop.scala[0m
+2025.03.15 19:24:40 WARN  Could not find semantic tokens for: file:///Users/aldo/Desktop/scala-learning/oop.scala[0m
+2025.03.15 19:29:33 INFO  compiling scala-learning_fcfe619399 (1 scala source)[0m
+2025.03.15 19:29:33 INFO  time: compiled scala-learning_fcfe619399 in 0.32s[0m
+Mar 15, 2025 7:29:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1932
+2025.03.15 19:46:21 WARN  Could not load snapshot text for /Users/aldo/Desktop/scala-learning/oop.scala[0m
+2025.03.15 19:46:21 INFO  compiling scala-learning_fcfe619399 (1 scala source)[0m
+2025.03.15 19:46:21 INFO  time: compiled scala-learning_fcfe619399 in 0.41s[0m
+2025.03.15 19:46:57 INFO  compiling scala-learning_fcfe619399 (1 scala source)[0m
+2025.03.15 19:46:57 INFO  time: compiled scala-learning_fcfe619399 in 0.12s[0m
+2025.03.15 19:46:59 INFO  compiling scala-learning_fcfe619399 (1 scala source)[0m
+2025.03.15 19:46:59 INFO  time: compiled scala-learning_fcfe619399 in 0.2s[0m
+2025.03.15 19:48:26 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:26 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:26 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:27 WARN  Could not find semantic tokens for: file:///Users/aldo/Desktop/scala-learning/enums.scala[0m
+2025.03.15 19:48:31 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:31 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:31 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:31 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:31 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:31 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:31 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:31 WARN  Could not find semantic tokens for: file:///Users/aldo/Desktop/scala-learning/enums.scala[0m
+2025.03.15 19:48:31 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:31 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:31 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:31 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:31 WARN  Could not find semantic tokens for: file:///Users/aldo/Desktop/scala-learning/enums.scala[0m
+2025.03.15 19:48:35 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:35 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:35 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:35 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:35 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:35 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:35 WARN  Could not find semantic tokens for: file:///Users/aldo/Desktop/scala-learning/enums.scala[0m
+2025.03.15 19:48:35 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:35 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:36 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:36 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:35 WARN  Could not find semantic tokens for: file:///Users/aldo/Desktop/scala-learning/enums.scala[0m
+2025.03.15 19:48:37 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:37 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:37 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:37 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:37 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:37 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:37 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:37 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:37 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:37 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:37 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:37 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:37 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:45 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:45 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:45 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:45 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:45 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:47 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:47 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:47 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:47 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:48 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:47 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:47 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:47 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:48 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:47 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:48 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:48 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:49 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:49 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:49 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:49 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:49 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:49 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:49 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:49 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:49 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:49 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:49 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:50 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:50 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:50 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:50 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:50 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:50 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:50 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:50 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:50 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:50 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:50 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:50 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:51 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:51 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:51 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:51 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:51 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:51 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:51 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:51 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:51 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:51 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:51 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:51 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:51 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:52 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:52 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:52 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:52 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:52 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:52 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:52 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:52 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:52 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:53 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:53 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:53 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:53 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:53 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:53 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:53 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:53 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:53 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:53 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:53 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:54 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:53 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:54 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:54 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:54 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:54 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:54 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:54 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:54 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:54 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:54 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:54 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:54 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:55 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:54 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:55 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:54 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:55 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:55 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:55 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:55 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:55 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:55 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:55 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:55 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:56 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:55 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:55 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:55 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:56 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:56 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:56 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:56 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:56 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:56 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:56 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:57 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:56 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:57 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:56 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:56 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:57 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:57 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:57 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:58 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:58 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:57 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:57 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:58 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:57 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:57 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:58 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:58 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:58 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:58 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:58 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:58 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:59 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:58 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:59 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:48:59 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:00 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:00 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:00 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:07 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:07 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:07 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:07 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:08 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:08 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:07 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:07 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:08 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:08 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:28 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:36 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:36 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:37 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:36 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:36 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:37 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:36 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:36 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:36 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:37 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:36 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:37 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:38 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:38 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:38 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:38 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:38 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:38 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:38 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:38 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:38 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:39 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:39 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:39 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:39 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:39 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:39 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:49:39 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:51 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:51 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:51 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:51 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:51 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:51 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:51 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:51 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:51 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:51 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:51 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:51 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:51 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:51 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:52 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:52 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:52 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:52 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:53 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:52 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:53 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:52 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:52 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:52 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:53 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:52 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:52 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:52 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:52 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:54 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:54 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:54 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:54 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:54 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:54 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:54 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:54 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:54 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:54 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:54 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:54 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:55 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:55 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:55 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:55 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:55 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:55 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:55 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:56 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:55 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:55 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:55 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:55 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:56 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:55 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:56 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:57 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:57 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:57 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:57 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:57 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:58 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:57 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:57 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:57 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:58 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:57 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:58 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:58 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:58 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:58 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:58 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:59 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:58 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:59 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:58 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:59 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:58 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:50:59 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:00 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:00 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:00 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:00 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:00 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:00 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:00 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:01 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:01 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:00 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:00 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:01 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:01 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:01 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:01 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:01 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:01 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:01 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:01 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:01 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:01 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:01 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:01 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:02 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:01 WARN  no build target for: /Users/aldo/Desktop/scala-learning/enums.scala[0m
+2025.03.15 19:51:01 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:17 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:17 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:17 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:18 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:18 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:18 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:18 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:27 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:27 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:27 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:27 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:27 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:27 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:27 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:27 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:28 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:28 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:28 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:28 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:28 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:28 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:28 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:28 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:28 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:28 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:28 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:28 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:28 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:29 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:28 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:28 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:29 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:29 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:29 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:29 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:29 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:29 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:29 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:29 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:30 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:29 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:29 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:30 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:30 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:30 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:30 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:30 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:31 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:30 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:30 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:30 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:31 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:31 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:31 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:31 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:31 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:31 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:31 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:32 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:31 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:32 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:32 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:32 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:32 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:32 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:32 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:32 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:32 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:32 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:32 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:32 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:32 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:32 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:32 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:32 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:33 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:33 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:33 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:33 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:33 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:33 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:33 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:33 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:33 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:33 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:33 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:33 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:33 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:33 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:34 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:34 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:34 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:34 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:35 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:35 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:34 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:36 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:36 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:36 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:36 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:36 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:36 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:36 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:36 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:36 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:36 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:37 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:37 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:37 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:37 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:37 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:37 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:37 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:37 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:37 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:37 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:37 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:37 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:37 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:37 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:37 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:38 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:38 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:38 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:38 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:39 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:39 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:39 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:39 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:39 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:40 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:46 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:46 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:46 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:46 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:46 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:46 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:46 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:46 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:46 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:46 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:46 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:46 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:46 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:51 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:51 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:51:51 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:02 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:02 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:02 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:02 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:02 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:02 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:02 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:02 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:02 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:02 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:02 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:02 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:02 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:02 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:02 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:02 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:03 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:03 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:03 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:03 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:04 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:04 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:03 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:04 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:04 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:04 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:04 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:04 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:04 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:04 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:05 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:04 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:05 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:05 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:05 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:05 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:05 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:05 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:06 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:05 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:06 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:11 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:11 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:11 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:11 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:11 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:11 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:11 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:11 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:11 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:11 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:11 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:12 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:11 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:11 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:12 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:11 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:12 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:12 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:12 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:12 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:12 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:12 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:58 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:58 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:58 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:58 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:52:58 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:00 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:00 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:04 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:04 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:04 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:05 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:05 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:05 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:05 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:05 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:06 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:06 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:07 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:07 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:07 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:07 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:08 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:08 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:09 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:08 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:08 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:09 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:08 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:08 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:08 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:08 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:08 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:09 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:09 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:08 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:11 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:11 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:11 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:11 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:12 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:12 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:12 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:15 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:15 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:15 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:15 WARN  no build target for: /Users/aldo/Desktop/scala-learning/enums.scala[0m
+2025.03.15 19:53:15 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:15 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:17 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:17 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:22 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:26 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:26 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:26 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:27 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:27 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:28 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:28 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:28 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:30 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:30 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:30 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:30 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:30 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:30 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:30 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:30 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:30 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:30 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:31 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:31 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:30 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:31 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:31 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:31 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:31 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:31 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:31 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:31 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:31 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:31 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:31 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:31 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:32 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:32 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:31 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:32 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:32 ERROR scalafmt: /Users/aldo/Desktop/scala-learning/enums.scala:10: error: [dialect scala3] { expected but end of file found
+
+^[0m
+2025.03.15 19:53:32 WARN  no build target for: /Users/aldo/Desktop/scala-learning/enums.scala[0m
+2025.03.15 19:53:32 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:32 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:32 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:35 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:44 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:44 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:46 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:46 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:46 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:46 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:46 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:46 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:53:46 WARN  no build target for: /Users/aldo/Desktop/scala-learning/enums.scala[0m
+2025.03.15 19:53:46 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:54:03 INFO  no build target found for /Users/aldo/Desktop/scala-learning/order.sc. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:54:03 INFO  no build target found for /Users/aldo/Desktop/scala-learning/order.sc. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:54:03 WARN  no build target for: /Users/aldo/Desktop/scala-learning/order.sc[0m
+2025.03.15 19:54:03 INFO  no build target found for /Users/aldo/Desktop/scala-learning/order.sc. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:54:03 WARN  Could not find semantic tokens for: file:///Users/aldo/Desktop/scala-learning/order.sc[0m
+2025.03.15 19:54:03 WARN  no build target for: /Users/aldo/Desktop/scala-learning/order.sc[0m
+2025.03.15 19:54:03 INFO  no build target found for /Users/aldo/Desktop/scala-learning/order.sc. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:54:03 WARN  Could not find semantic tokens for: file:///Users/aldo/Desktop/scala-learning/order.sc[0m
+2025.03.15 19:54:14 INFO  no build target found for /Users/aldo/Desktop/scala-learning/order.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:54:14 INFO  no build target found for /Users/aldo/Desktop/scala-learning/order.sc. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:54:14 INFO  no build target found for /Users/aldo/Desktop/scala-learning/order.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:54:14 WARN  Could not find semantic tokens for: file:///Users/aldo/Desktop/scala-learning/order.scala[0m
+2025.03.15 19:54:14 INFO  no build target found for /Users/aldo/Desktop/scala-learning/order.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:54:14 INFO  no build target found for /Users/aldo/Desktop/scala-learning/order.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:54:14 WARN  Could not find semantic tokens for: file:///Users/aldo/Desktop/scala-learning/order.scala[0m
+2025.03.15 19:54:14 WARN  no build target for: /Users/aldo/Desktop/scala-learning/order.sc[0m
+2025.03.15 19:54:14 INFO  no build target found for /Users/aldo/Desktop/scala-learning/order.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 19:54:14 INFO  running doctor check[0m
+2025.03.15 19:54:14 INFO  java targets: scala-learning_fcfe619399, scala-learning_fcfe619399-test[0m
+2025.03.15 19:54:14 WARN  Could not find semantic tokens for: file:///Users/aldo/Desktop/scala-learning/order.scala[0m
+2025.03.15 19:54:14 INFO  compiling scala-learning_fcfe619399 (3 scala sources)[0m
+2025.03.15 19:54:14 INFO  time: compiled scala-learning_fcfe619399 in 0.8s[0m
+2025.03.15 19:54:16 INFO  time: indexed workspace in 1.16s[0m
+2025.03.15 19:54:16 WARN  Could not find semantic tokens for: file:///Users/aldo/Desktop/scala-learning/order.scala[0m
+2025.03.15 19:54:17 WARN  Could not find semantic tokens for: file:///Users/aldo/Desktop/scala-learning/order.scala[0m
+2025.03.15 19:54:17 WARN  Could not find semantic tokens for: file:///Users/aldo/Desktop/scala-learning/order.scala[0m
+2025.03.15 19:54:18 WARN  Could not find semantic tokens for: file:///Users/aldo/Desktop/scala-learning/order.scala[0m
+2025.03.15 19:54:19 WARN  Could not find semantic tokens for: file:///Users/aldo/Desktop/scala-learning/order.scala[0m
+2025.03.15 19:54:22 WARN  Could not find semantic tokens for: file:///Users/aldo/Desktop/scala-learning/order.scala[0m
+Mar 15, 2025 7:56:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5042
+2025.03.15 19:56:56 ERROR /Users/aldo/Desktop/scala-learning/.metals/.tmp/order.scala:14: error: illegal start of statement
+    match 
+    ^
+scala.meta.internal.metals.ScalafixProvider$ScalafixRunException: /Users/aldo/Desktop/scala-learning/.metals/.tmp/order.scala:14: error: illegal start of statement
+    match 
+    ^
+	at scala.meta.internal.metals.ScalafixProvider.$anonfun$runScalafixRules$2(ScalafixProvider.scala:132)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+[0m
+Mar 15, 2025 7:56:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: scala.meta.internal.metals.ScalafixProvider$ScalafixRunException: /Users/aldo/Desktop/scala-learning/.metals/.tmp/order.scala:14: error: illegal start of statement
+    match 
+    ^
+java.util.concurrent.CompletionException: scala.meta.internal.metals.ScalafixProvider$ScalafixRunException: /Users/aldo/Desktop/scala-learning/.metals/.tmp/order.scala:14: error: illegal start of statement
+    match 
+    ^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2194)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: scala.meta.internal.metals.ScalafixProvider$ScalafixRunException: /Users/aldo/Desktop/scala-learning/.metals/.tmp/order.scala:14: error: illegal start of statement
+    match 
+    ^
+	at scala.meta.internal.metals.ScalafixProvider.$anonfun$runScalafixRules$2(ScalafixProvider.scala:132)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	... 3 more
+
+2025.03.15 19:56:56 ERROR scalafmt: /Users/aldo/Desktop/scala-learning/order.scala:14: error: [dialect scala3] illegal start of statement
+    match 
+    ^[0m
+2025.03.15 19:56:57 INFO  compiling scala-learning_fcfe619399 (1 scala source)[0m
+2025.03.15 19:56:57 INFO  time: compiled scala-learning_fcfe619399 in 0.14s[0m
+Mar 15, 2025 7:57:15 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/aldo/Desktop/scala-learning/.metals/.reports/metals-full/2025-03-15/r_empty-definition_(scala-learning_fcfe619399)_19-57-15-773.md)
+2025.03.15 19:57:15 ERROR scalafmt: /Users/aldo/Desktop/scala-learning/order.scala:13: error: [dialect scala3] illegal start of statement
+    match 
+    ^[0m
+2025.03.15 19:57:15 INFO  compiling scala-learning_fcfe619399 (1 scala source)[0m
+2025.03.15 19:57:15 INFO  time: compiled scala-learning_fcfe619399 in 92ms[0m
+2025.03.15 19:58:08 INFO  compiling scala-learning_fcfe619399 (1 scala source)[0m
+2025.03.15 19:58:08 INFO  time: compiled scala-learning_fcfe619399 in 0.26s[0m
+2025.03.15 19:58:40 INFO  compiling scala-learning_fcfe619399 (1 scala source)[0m
+2025.03.15 19:58:40 INFO  time: compiled scala-learning_fcfe619399 in 0.2s[0m
+Mar 15, 2025 7:59:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6174
+2025.03.15 20:00:09 INFO  compiling scala-learning_fcfe619399 (1 scala source)[0m
+2025.03.15 20:00:09 INFO  time: compiled scala-learning_fcfe619399 in 88ms[0m
+2025.03.15 20:00:13 INFO  compiling scala-learning_fcfe619399 (1 scala source)[0m
+2025.03.15 20:00:13 INFO  time: compiled scala-learning_fcfe619399 in 0.2s[0m
+2025.03.15 20:00:53 INFO  compiling scala-learning_fcfe619399 (1 scala source)[0m
+2025.03.15 20:00:53 INFO  time: compiled scala-learning_fcfe619399 in 0.17s[0m
+2025.03.15 20:01:15 INFO  Disconnecting from scala session...[0m
+2025.03.15 20:01:15 INFO  Shut down connection with build server.[0m
+2025.03.15 20:01:15 INFO  Attempting to connect to the build server...[0m
+2025.03.15 20:01:15 INFO  Running BSP server List(/Users/aldo/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/aldo/Desktop/scala-learning/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/aldo/Desktop/scala-learning/.scala-build/ide-launcher-options.json, --envs-file, /Users/aldo/Desktop/scala-learning/.scala-build/ide-envs.json, /Users/aldo/Desktop/scala-learning/order.scala)[0m
+2025.03.15 20:01:15 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/aldo/Desktop/scala-learning/.metals/bsp.trace.json or /Users/aldo/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.03.15 20:01:15 INFO  time: Connected to build server in 0.81s[0m
+2025.03.15 20:01:15 INFO  Connected to Build server: scala-cli v1.7.0[0m
+2025.03.15 20:01:15 INFO  running doctor check[0m
+2025.03.15 20:01:15 INFO  java targets: scala-learning_59191a36e3-85acdf1fcd-test, scala-learning_59191a36e3-85acdf1fcd[0m
+2025.03.15 20:01:15 INFO  compiling scala-learning_59191a36e3-85acdf1fcd (1 scala source)[0m
+2025.03.15 20:01:16 INFO  time: compiled scala-learning_59191a36e3-85acdf1fcd in 0.12s[0m
+2025.03.15 20:01:16 INFO  compiling scala-learning_59191a36e3-85acdf1fcd (1 scala source)[0m
+2025.03.15 20:01:16 INFO  time: compiled scala-learning_59191a36e3-85acdf1fcd in 0.1s[0m
+2025.03.15 20:01:18 INFO  time: indexed workspace in 2.42s[0m
+2025.03.15 20:01:18 WARN  no build target for: /Users/aldo/Desktop/scala-learning/enums.scala[0m
+2025.03.15 20:01:18 WARN  no build target for: /Users/aldo/Desktop/scala-learning/oop.scala[0m
+2025.03.15 20:01:18 INFO  compiling scala-learning_59191a36e3-85acdf1fcd (1 scala source)[0m
+2025.03.15 20:01:18 INFO  time: compiled scala-learning_59191a36e3-85acdf1fcd in 0.16s[0m
+2025.03.15 20:01:26 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 20:01:27 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 20:01:27 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 20:01:29 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 20:01:29 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 20:01:29 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 20:01:29 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 20:02:23 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 20:02:23 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 20:02:23 INFO  no build target found for /Users/aldo/Desktop/scala-learning/enums.scala. Using presentation compiler with project's scala-library version: 3.6.2[0m
+2025.03.15 20:02:27 INFO  compiling scala-learning_59191a36e3-85acdf1fcd (1 scala source)[0m
+2025.03.15 20:02:27 INFO  time: compiled scala-learning_59191a36e3-85acdf1fcd in 0.2s[0m
+2025.03.15 20:02:43 INFO  compiling scala-learning_59191a36e3-85acdf1fcd (1 scala source)[0m
+2025.03.15 20:02:43 INFO  time: compiled scala-learning_59191a36e3-85acdf1fcd in 0.15s[0m
+2025.03.15 20:03:11 INFO  compiling scala-learning_59191a36e3-85acdf1fcd (1 scala source)[0m
+2025.03.15 20:03:11 INFO  time: compiled scala-learning_59191a36e3-85acdf1fcd in 0.62s[0m
+2025.03.15 20:03:23 ERROR Unable to run scalafix, please check logs for more info.
+java.util.concurrent.ExecutionException: Boxed Exception
+	at scala.concurrent.impl.Promise$.scala$concurrent$impl$Promise$$resolve(Promise.scala:99)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:506)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+Caused by: java.util.ServiceConfigurationError: scalafix.v1.Rule: scalafix.internal.rule.DisableSyntax not a subtype
+	at java.util.ServiceLoader.fail(ServiceLoader.java:593)
+	at java.util.ServiceLoader$LazyClassPathLookupIterator.hasNextService(ServiceLoader.java:1244)
+	at java.util.ServiceLoader$LazyClassPathLookupIterator.hasNext(ServiceLoader.java:1273)
+	at java.util.ServiceLoader$2.hasNext(ServiceLoader.java:1309)
+	at java.util.ServiceLoader$3.hasNext(ServiceLoader.java:1393)
+	at scala.collection.convert.JavaCollectionWrappers$JIteratorWrapper.hasNext(JavaCollectionWrappers.scala:46)
+	at scala.collection.immutable.List.prependedAll(List.scala:152)
+	at scala.collection.IterableOnceOps.toList(IterableOnce.scala:1446)
+	at scala.collection.IterableOnceOps.toList$(IterableOnce.scala:1446)
+	at scala.collection.AbstractIterator.toList(Iterator.scala:1306)
+	at scalafix.internal.v1.Rules$.all(Rules.scala:104)
+	at scalafix.v1.RuleDecoder$$anon$1.<init>(RuleDecoder.scala:106)
+	at scalafix.v1.RuleDecoder$.decoder(RuleDecoder.scala:105)
+	at scalafix.internal.v1.Args.ruleDecoder(Args.scala:253)
+	at scalafix.internal.v1.Args.configuredRules(Args.scala:287)
+	at scalafix.internal.v1.Args.validate$$anonfun$1(Args.scala:421)
+	at metaconfig.Configured.andThen(Configured.scala:43)
+	at scalafix.internal.v1.Args.validate(Args.scala:417)
+	at scalafix.internal.interfaces.ScalafixArgumentsImpl.evaluate(ScalafixArgumentsImpl.scala:43)
+	at scala.meta.internal.metals.ScalafixProvider.$anonfun$scalafixEvaluate$11(ScalafixProvider.scala:427)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+[0m
+Mar 15, 2025 8:03:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.util.concurrent.ExecutionException: Boxed Exception
+java.util.concurrent.CompletionException: java.util.concurrent.ExecutionException: Boxed Exception
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2194)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.util.concurrent.ExecutionException: Boxed Exception
+	at scala.concurrent.impl.Promise$.scala$concurrent$impl$Promise$$resolve(Promise.scala:99)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:506)
+	... 3 more
+Caused by: java.util.ServiceConfigurationError: scalafix.v1.Rule: scalafix.internal.rule.DisableSyntax not a subtype
+	at java.base/java.util.ServiceLoader.fail(ServiceLoader.java:593)
+	at java.base/java.util.ServiceLoader$LazyClassPathLookupIterator.hasNextService(ServiceLoader.java:1244)
+	at java.base/java.util.ServiceLoader$LazyClassPathLookupIterator.hasNext(ServiceLoader.java:1273)
+	at java.base/java.util.ServiceLoader$2.hasNext(ServiceLoader.java:1309)
+	at java.base/java.util.ServiceLoader$3.hasNext(ServiceLoader.java:1393)
+	at scala.collection.convert.JavaCollectionWrappers$JIteratorWrapper.hasNext(JavaCollectionWrappers.scala:46)
+	at scala.collection.immutable.List.prependedAll(List.scala:152)
+	at scala.collection.IterableOnceOps.toList(IterableOnce.scala:1446)
+	at scala.collection.IterableOnceOps.toList$(IterableOnce.scala:1446)
+	at scala.collection.AbstractIterator.toList(Iterator.scala:1306)
+	at scalafix.internal.v1.Rules$.all(Rules.scala:104)
+	at scalafix.v1.RuleDecoder$$anon$1.<init>(RuleDecoder.scala:106)
+	at scalafix.v1.RuleDecoder$.decoder(RuleDecoder.scala:105)
+	at scalafix.internal.v1.Args.ruleDecoder(Args.scala:253)
+	at scalafix.internal.v1.Args.configuredRules(Args.scala:287)
+	at scalafix.internal.v1.Args.validate$$anonfun$1(Args.scala:421)
+	at metaconfig.Configured.andThen(Configured.scala:43)
+	at scalafix.internal.v1.Args.validate(Args.scala:417)
+	at scalafix.internal.interfaces.ScalafixArgumentsImpl.evaluate(ScalafixArgumentsImpl.scala:43)
+	at scala.meta.internal.metals.ScalafixProvider.$anonfun$scalafixEvaluate$11(ScalafixProvider.scala:427)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2025.03.15 20:03:23 INFO  compiling scala-learning_59191a36e3-85acdf1fcd (1 scala source)[0m
+2025.03.15 20:03:23 INFO  time: compiled scala-learning_59191a36e3-85acdf1fcd in 0.11s[0m
+2025.03.15 20:03:28 INFO  compiling scala-learning_59191a36e3-85acdf1fcd (1 scala source)[0m
+2025.03.15 20:03:28 INFO  time: compiled scala-learning_59191a36e3-85acdf1fcd in 0.29s[0m
+2025.03.15 20:04:42 ERROR Unable to run scalafix, please check logs for more info.
+java.util.concurrent.ExecutionException: Boxed Exception
+	at scala.concurrent.impl.Promise$.scala$concurrent$impl$Promise$$resolve(Promise.scala:99)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:506)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+Caused by: java.util.ServiceConfigurationError: scalafix.v1.Rule: scalafix.internal.rule.DisableSyntax not a subtype
+	at java.util.ServiceLoader.fail(ServiceLoader.java:593)
+	at java.util.ServiceLoader$LazyClassPathLookupIterator.hasNextService(ServiceLoader.java:1244)
+	at java.util.ServiceLoader$LazyClassPathLookupIterator.hasNext(ServiceLoader.java:1273)
+	at java.util.ServiceLoader$2.hasNext(ServiceLoader.java:1309)
+	at java.util.ServiceLoader$3.hasNext(ServiceLoader.java:1393)
+	at scala.collection.convert.JavaCollectionWrappers$JIteratorWrapper.hasNext(JavaCollectionWrappers.scala:46)
+	at scala.collection.immutable.List.prependedAll(List.scala:152)
+	at scala.collection.IterableOnceOps.toList(IterableOnce.scala:1446)
+	at scala.collection.IterableOnceOps.toList$(IterableOnce.scala:1446)
+	at scala.collection.AbstractIterator.toList(Iterator.scala:1306)
+	at scalafix.internal.v1.Rules$.all(Rules.scala:104)
+	at scalafix.v1.RuleDecoder$$anon$1.<init>(RuleDecoder.scala:106)
+	at scalafix.v1.RuleDecoder$.decoder(RuleDecoder.scala:105)
+	at scalafix.internal.v1.Args.ruleDecoder(Args.scala:253)
+	at scalafix.internal.v1.Args.configuredRules(Args.scala:287)
+	at scalafix.internal.v1.Args.validate$$anonfun$1(Args.scala:421)
+	at metaconfig.Configured.andThen(Configured.scala:43)
+	at scalafix.internal.v1.Args.validate(Args.scala:417)
+	at scalafix.internal.interfaces.ScalafixArgumentsImpl.evaluate(ScalafixArgumentsImpl.scala:43)
+	at scala.meta.internal.metals.ScalafixProvider.$anonfun$scalafixEvaluate$11(ScalafixProvider.scala:427)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+[0m
+Mar 15, 2025 8:04:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.util.concurrent.ExecutionException: Boxed Exception
+java.util.concurrent.CompletionException: java.util.concurrent.ExecutionException: Boxed Exception
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2194)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.util.concurrent.ExecutionException: Boxed Exception
+	at scala.concurrent.impl.Promise$.scala$concurrent$impl$Promise$$resolve(Promise.scala:99)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:506)
+	... 3 more
+Caused by: java.util.ServiceConfigurationError: scalafix.v1.Rule: scalafix.internal.rule.DisableSyntax not a subtype
+	at java.base/java.util.ServiceLoader.fail(ServiceLoader.java:593)
+	at java.base/java.util.ServiceLoader$LazyClassPathLookupIterator.hasNextService(ServiceLoader.java:1244)
+	at java.base/java.util.ServiceLoader$LazyClassPathLookupIterator.hasNext(ServiceLoader.java:1273)
+	at java.base/java.util.ServiceLoader$2.hasNext(ServiceLoader.java:1309)
+	at java.base/java.util.ServiceLoader$3.hasNext(ServiceLoader.java:1393)
+	at scala.collection.convert.JavaCollectionWrappers$JIteratorWrapper.hasNext(JavaCollectionWrappers.scala:46)
+	at scala.collection.immutable.List.prependedAll(List.scala:152)
+	at scala.collection.IterableOnceOps.toList(IterableOnce.scala:1446)
+	at scala.collection.IterableOnceOps.toList$(IterableOnce.scala:1446)
+	at scala.collection.AbstractIterator.toList(Iterator.scala:1306)
+	at scalafix.internal.v1.Rules$.all(Rules.scala:104)
+	at scalafix.v1.RuleDecoder$$anon$1.<init>(RuleDecoder.scala:106)
+	at scalafix.v1.RuleDecoder$.decoder(RuleDecoder.scala:105)
+	at scalafix.internal.v1.Args.ruleDecoder(Args.scala:253)
+	at scalafix.internal.v1.Args.configuredRules(Args.scala:287)
+	at scalafix.internal.v1.Args.validate$$anonfun$1(Args.scala:421)
+	at metaconfig.Configured.andThen(Configured.scala:43)
+	at scalafix.internal.v1.Args.validate(Args.scala:417)
+	at scalafix.internal.interfaces.ScalafixArgumentsImpl.evaluate(ScalafixArgumentsImpl.scala:43)
+	at scala.meta.internal.metals.ScalafixProvider.$anonfun$scalafixEvaluate$11(ScalafixProvider.scala:427)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2025.03.15 20:04:42 INFO  compiling scala-learning_59191a36e3-85acdf1fcd (1 scala source)[0m
+2025.03.15 20:04:42 INFO  time: compiled scala-learning_59191a36e3-85acdf1fcd in 0.21s[0m
+2025.03.15 20:04:48 ERROR Unable to run scalafix, please check logs for more info.
+java.util.concurrent.ExecutionException: Boxed Exception
+	at scala.concurrent.impl.Promise$.scala$concurrent$impl$Promise$$resolve(Promise.scala:99)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:506)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+Caused by: java.util.ServiceConfigurationError: scalafix.v1.Rule: scalafix.internal.rule.DisableSyntax not a subtype
+	at java.util.ServiceLoader.fail(ServiceLoader.java:593)
+	at java.util.ServiceLoader$LazyClassPathLookupIterator.hasNextService(ServiceLoader.java:1244)
+	at java.util.ServiceLoader$LazyClassPathLookupIterator.hasNext(ServiceLoader.java:1273)
+	at java.util.ServiceLoader$2.hasNext(ServiceLoader.java:1309)
+	at java.util.ServiceLoader$3.hasNext(ServiceLoader.java:1393)
+	at scala.collection.convert.JavaCollectionWrappers$JIteratorWrapper.hasNext(JavaCollectionWrappers.scala:46)
+	at scala.collection.immutable.List.prependedAll(List.scala:152)
+	at scala.collection.IterableOnceOps.toList(IterableOnce.scala:1446)
+	at scala.collection.IterableOnceOps.toList$(IterableOnce.scala:1446)
+	at scala.collection.AbstractIterator.toList(Iterator.scala:1306)
+	at scalafix.internal.v1.Rules$.all(Rules.scala:104)
+	at scalafix.v1.RuleDecoder$$anon$1.<init>(RuleDecoder.scala:106)
+	at scalafix.v1.RuleDecoder$.decoder(RuleDecoder.scala:105)
+	at scalafix.internal.v1.Args.ruleDecoder(Args.scala:253)
+	at scalafix.internal.v1.Args.configuredRules(Args.scala:287)
+	at scalafix.internal.v1.Args.validate$$anonfun$1(Args.scala:421)
+	at metaconfig.Configured.andThen(Configured.scala:43)
+	at scalafix.internal.v1.Args.validate(Args.scala:417)
+	at scalafix.internal.interfaces.ScalafixArgumentsImpl.evaluate(ScalafixArgumentsImpl.scala:43)
+	at scala.meta.internal.metals.ScalafixProvider.$anonfun$scalafixEvaluate$11(ScalafixProvider.scala:427)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+[0m
+Mar 15, 2025 8:04:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.util.concurrent.ExecutionException: Boxed Exception
+java.util.concurrent.CompletionException: java.util.concurrent.ExecutionException: Boxed Exception
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2194)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.util.concurrent.ExecutionException: Boxed Exception
+	at scala.concurrent.impl.Promise$.scala$concurrent$impl$Promise$$resolve(Promise.scala:99)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:506)
+	... 3 more
+Caused by: java.util.ServiceConfigurationError: scalafix.v1.Rule: scalafix.internal.rule.DisableSyntax not a subtype
+	at java.base/java.util.ServiceLoader.fail(ServiceLoader.java:593)
+	at java.base/java.util.ServiceLoader$LazyClassPathLookupIterator.hasNextService(ServiceLoader.java:1244)
+	at java.base/java.util.ServiceLoader$LazyClassPathLookupIterator.hasNext(ServiceLoader.java:1273)
+	at java.base/java.util.ServiceLoader$2.hasNext(ServiceLoader.java:1309)
+	at java.base/java.util.ServiceLoader$3.hasNext(ServiceLoader.java:1393)
+	at scala.collection.convert.JavaCollectionWrappers$JIteratorWrapper.hasNext(JavaCollectionWrappers.scala:46)
+	at scala.collection.immutable.List.prependedAll(List.scala:152)
+	at scala.collection.IterableOnceOps.toList(IterableOnce.scala:1446)
+	at scala.collection.IterableOnceOps.toList$(IterableOnce.scala:1446)
+	at scala.collection.AbstractIterator.toList(Iterator.scala:1306)
+	at scalafix.internal.v1.Rules$.all(Rules.scala:104)
+	at scalafix.v1.RuleDecoder$$anon$1.<init>(RuleDecoder.scala:106)
+	at scalafix.v1.RuleDecoder$.decoder(RuleDecoder.scala:105)
+	at scalafix.internal.v1.Args.ruleDecoder(Args.scala:253)
+	at scalafix.internal.v1.Args.configuredRules(Args.scala:287)
+	at scalafix.internal.v1.Args.validate$$anonfun$1(Args.scala:421)
+	at metaconfig.Configured.andThen(Configured.scala:43)
+	at scalafix.internal.v1.Args.validate(Args.scala:417)
+	at scalafix.internal.interfaces.ScalafixArgumentsImpl.evaluate(ScalafixArgumentsImpl.scala:43)
+	at scala.meta.internal.metals.ScalafixProvider.$anonfun$scalafixEvaluate$11(ScalafixProvider.scala:427)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2025.03.15 20:04:49 INFO  compiling scala-learning_59191a36e3-85acdf1fcd (1 scala source)[0m
+2025.03.15 20:04:49 INFO  time: compiled scala-learning_59191a36e3-85acdf1fcd in 0.2s[0m
+2025.03.15 20:04:53 ERROR Unable to run scalafix, please check logs for more info.
+java.util.concurrent.ExecutionException: Boxed Exception
+	at scala.concurrent.impl.Promise$.scala$concurrent$impl$Promise$$resolve(Promise.scala:99)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:506)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+Caused by: java.util.ServiceConfigurationError: scalafix.v1.Rule: scalafix.internal.rule.DisableSyntax not a subtype
+	at java.util.ServiceLoader.fail(ServiceLoader.java:593)
+	at java.util.ServiceLoader$LazyClassPathLookupIterator.hasNextService(ServiceLoader.java:1244)
+	at java.util.ServiceLoader$LazyClassPathLookupIterator.hasNext(ServiceLoader.java:1273)
+	at java.util.ServiceLoader$2.hasNext(ServiceLoader.java:1309)
+	at java.util.ServiceLoader$3.hasNext(ServiceLoader.java:1393)
+	at scala.collection.convert.JavaCollectionWrappers$JIteratorWrapper.hasNext(JavaCollectionWrappers.scala:46)
+	at scala.collection.immutable.List.prependedAll(List.scala:152)
+	at scala.collection.IterableOnceOps.toList(IterableOnce.scala:1446)
+	at scala.collection.IterableOnceOps.toList$(IterableOnce.scala:1446)
+	at scala.collection.AbstractIterator.toList(Iterator.scala:1306)
+	at scalafix.internal.v1.Rules$.all(Rules.scala:104)
+	at scalafix.v1.RuleDecoder$$anon$1.<init>(RuleDecoder.scala:106)
+	at scalafix.v1.RuleDecoder$.decoder(RuleDecoder.scala:105)
+	at scalafix.internal.v1.Args.ruleDecoder(Args.scala:253)
+	at scalafix.internal.v1.Args.configuredRules(Args.scala:287)
+	at scalafix.internal.v1.Args.validate$$anonfun$1(Args.scala:421)
+	at metaconfig.Configured.andThen(Configured.scala:43)
+	at scalafix.internal.v1.Args.validate(Args.scala:417)
+	at scalafix.internal.interfaces.ScalafixArgumentsImpl.evaluate(ScalafixArgumentsImpl.scala:43)
+	at scala.meta.internal.metals.ScalafixProvider.$anonfun$scalafixEvaluate$11(ScalafixProvider.scala:427)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+[0m
+Mar 15, 2025 8:04:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.util.concurrent.ExecutionException: Boxed Exception
+java.util.concurrent.CompletionException: java.util.concurrent.ExecutionException: Boxed Exception
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2194)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.util.concurrent.ExecutionException: Boxed Exception
+	at scala.concurrent.impl.Promise$.scala$concurrent$impl$Promise$$resolve(Promise.scala:99)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:506)
+	... 3 more
+Caused by: java.util.ServiceConfigurationError: scalafix.v1.Rule: scalafix.internal.rule.DisableSyntax not a subtype
+	at java.base/java.util.ServiceLoader.fail(ServiceLoader.java:593)
+	at java.base/java.util.ServiceLoader$LazyClassPathLookupIterator.hasNextService(ServiceLoader.java:1244)
+	at java.base/java.util.ServiceLoader$LazyClassPathLookupIterator.hasNext(ServiceLoader.java:1273)
+	at java.base/java.util.ServiceLoader$2.hasNext(ServiceLoader.java:1309)
+	at java.base/java.util.ServiceLoader$3.hasNext(ServiceLoader.java:1393)
+	at scala.collection.convert.JavaCollectionWrappers$JIteratorWrapper.hasNext(JavaCollectionWrappers.scala:46)
+	at scala.collection.immutable.List.prependedAll(List.scala:152)
+	at scala.collection.IterableOnceOps.toList(IterableOnce.scala:1446)
+	at scala.collection.IterableOnceOps.toList$(IterableOnce.scala:1446)
+	at scala.collection.AbstractIterator.toList(Iterator.scala:1306)
+	at scalafix.internal.v1.Rules$.all(Rules.scala:104)
+	at scalafix.v1.RuleDecoder$$anon$1.<init>(RuleDecoder.scala:106)
+	at scalafix.v1.RuleDecoder$.decoder(RuleDecoder.scala:105)
+	at scalafix.internal.v1.Args.ruleDecoder(Args.scala:253)
+	at scalafix.internal.v1.Args.configuredRules(Args.scala:287)
+	at scalafix.internal.v1.Args.validate$$anonfun$1(Args.scala:421)
+	at metaconfig.Configured.andThen(Configured.scala:43)
+	at scalafix.internal.v1.Args.validate(Args.scala:417)
+	at scalafix.internal.interfaces.ScalafixArgumentsImpl.evaluate(ScalafixArgumentsImpl.scala:43)
+	at scala.meta.internal.metals.ScalafixProvider.$anonfun$scalafixEvaluate$11(ScalafixProvider.scala:427)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2025.03.15 20:04:53 INFO  compiling scala-learning_59191a36e3-85acdf1fcd (1 scala source)[0m
+2025.03.15 20:04:53 INFO  time: compiled scala-learning_59191a36e3-85acdf1fcd in 0.19s[0m
